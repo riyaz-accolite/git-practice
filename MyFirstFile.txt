@@ -1,4 +1,4 @@
-Hello everyone! This is a test task
+Hello everyone! This is a test task! Resolve Merged conflicts
 Hello everyone welcome to Spring AU 2023!
 
 AU Session start 22nd Feb 2023
