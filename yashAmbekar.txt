@@ -1,8 +1,12 @@
 hello its yash!!
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  Making new changes
 
 new changes 
+=======
+ Making new changes
+>>>>>>> Stashed changes
 =======
  Making new changes
 >>>>>>> Stashed changes
