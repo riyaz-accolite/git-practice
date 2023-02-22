@@ -1,0 +1,60 @@
+Initialize Git locally 
+git init 
+
+Add files to Stage 
+git add .
+
+Commit changes 
+git commit -m "<Message>"
+
+View difference between local and remote repo
+git diff
+
+Check status of the track and untrack files 
+git status
+
+Get history of commits 
+git log
+
+Set user name and email 
+git config --global user.name "<Username>"
+git config --global user.email "<email>"
+
+Clone Remote repo
+git clone "url"
+
+Checkout branch 
+git checkout <branchname>
+
+Create new branch 
+git checkout -b <branchname>
+
+Publish branch to remote repo
+git push --set-upstream origin <branch-name>
+
+Fetch changes 
+git fetch
+
+Merge changes 
+git merge
+
+Pull changes 
+git pull 
+
+Push changes 
+git push
+
+Stash changes 
+git stash 
+
+List all stash 
+git stash list 
+
+Pop stash 
+git stash apply {}
+
+Git Rebase 
+git rebase <branchName>
+
+Git cherry pick commit 
+git cherry-pick <commit-id>
